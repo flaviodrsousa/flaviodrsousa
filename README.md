@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hello! I'm Flávio Sousa, a 20-year-old Software Engineering enthusiast based in Portugal. Currently, I'm pursuing my studies at the University of Minho, where I'm delving deep into the world of software development.
+👋 Hello! I'm Flávio Sousa, a 21 year old Software Engineering enthusiast based in Portugal. Currently, I'm pursuing my studies at the University of Minho, where I'm delving deep into the world of software development.
 
 ## Academic Journey
 
